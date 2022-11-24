@@ -26,10 +26,14 @@ class Array
 	int size();
 	// Return the max capacity of the array
 	int capacity();
-	// Set all elements to 0
+  // Set all elements to 0
  	void clear()
     
-    private:
+
+
+
+  private:
+
 	// Pointer to create 
 	int* array;
 	// The size of the array
