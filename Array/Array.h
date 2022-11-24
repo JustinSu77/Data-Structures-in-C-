@@ -26,6 +26,8 @@ class Array
 	int size();
 	// Return the max capacity of the array
 	int capacity();
+	// Set all elements to 0
+ 	void clear()
     
     private:
 	// Pointer to create 
