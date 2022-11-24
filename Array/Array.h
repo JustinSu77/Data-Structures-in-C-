@@ -26,7 +26,8 @@ class Array
 	int size();
 	// Return the max capacity of the array
 	int capacity();
-    private:
+
+   private:
 	// Pointer to create 
 	int* array;
 	// The size of the array
